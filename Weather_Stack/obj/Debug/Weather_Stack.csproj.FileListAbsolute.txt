@@ -1,0 +1,16 @@
+D:\.Net\Weather_Stack\Weather_Stack\bin\Debug\Weather_Stack.exe.config
+D:\.Net\Weather_Stack\Weather_Stack\bin\Debug\Weather_Stack.exe
+D:\.Net\Weather_Stack\Weather_Stack\bin\Debug\Weather_Stack.pdb
+D:\.Net\Weather_Stack\Weather_Stack\bin\Debug\Newtonsoft.Json.dll
+D:\.Net\Weather_Stack\Weather_Stack\bin\Debug\System.Net.Http.Formatting.dll
+D:\.Net\Weather_Stack\Weather_Stack\bin\Debug\Newtonsoft.Json.xml
+D:\.Net\Weather_Stack\Weather_Stack\bin\Debug\System.Net.Http.Formatting.xml
+D:\.Net\Weather_Stack\Weather_Stack\obj\Debug\Weather_Stack.csproj.AssemblyReference.cache
+D:\.Net\Weather_Stack\Weather_Stack\obj\Debug\Weather_Stack.Form1.resources
+D:\.Net\Weather_Stack\Weather_Stack\obj\Debug\Weather_Stack.FRM_Location.resources
+D:\.Net\Weather_Stack\Weather_Stack\obj\Debug\Weather_Stack.Properties.Resources.resources
+D:\.Net\Weather_Stack\Weather_Stack\obj\Debug\Weather_Stack.csproj.GenerateResource.cache
+D:\.Net\Weather_Stack\Weather_Stack\obj\Debug\Weather_Stack.csproj.CoreCompileInputs.cache
+D:\.Net\Weather_Stack\Weather_Stack\obj\Debug\Weather_Stack.csproj.CopyComplete
+D:\.Net\Weather_Stack\Weather_Stack\obj\Debug\Weather_Stack.exe
+D:\.Net\Weather_Stack\Weather_Stack\obj\Debug\Weather_Stack.pdb
